@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==2.2.0"
 pylint-django = "*"
 autopep8 = "*"
+gunicorn = "==19.9.0"
 
 [requires]
 python_version = "3.7"
